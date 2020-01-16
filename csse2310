@@ -1,0 +1,43 @@
+# CSSE2310 &mdash; Computer Systems Principles and Programming
+|Thing|State of thing  |
+|--|--|
+|Recordings|✅ (visual demos not recorded) |
+|Lectures notes/slides|✅ (including prac slides)  |
+|Tutorial solutions|⚠️ (present in practials) |
+|Past exam solutions|❌ (not available, ask in prac/Piazza)|
+
+## Overview 
+The course revolves around systems programming in C on a Unix environment. Specific topics were memory management, threading, processes, filesystems, sockets, and networking. Bash shell commands, piping and redirection were also covered.
+
+CSSE2310 is an infamously difficult course in the school of ITEE. It has been described as a "trial by fire" but also "the most knowledge I've gained from a course".
+However, it is generally agreed that you get out what you put in. It demands a lot from students but in a fair way. 
+
+Plenty of help is available from amazing tutors who run structured practical sessions each week. In 2019, tutors were also very active on Piazza to answer assignment and exam questions.
+
+## Lectures
+Lectures involved Joel teaching theory from slides, then demonstrating via a small example on his computer. Past students have found his examples to be too simple, however this is because they only show the previous concept. It is up to you to bring all the theory together in assignments.
+
+Occasionally, Joel would teach more difficult concepts with entertaining demonstrations <sup>[wording]</sup>, often involving food but always with student participation. This was a great help in understanding more complex topics.
+
+## Assessment
+
+There were 4 assignments, a mid-semester exam and a final exam. The four assignments usually follow the same pattern. 
+
+- The first assignment is some C stuff that throws you in the deep end a lil bit, using concepts like iteration, file I/O and memory allocation/free. 
+- The second assignment is (considered the easiest and arguably the most fun), is all about debugging using gdb & print statements. 
+- The third assignment is IMO the hardest. Mostly because debugging it is quite hard because it’s all about pipes (and processes). 
+- The fourth assignment was also quite fun and was about threads (concurrency) and networking (sockets & ports). 
+<small>(mostly from multi's review)</small>
+
+The midsemester and final exams are fairly predicable, with the same types of questions every year. Practicing and comparing answers with past exams is worthwhile.
+
+## Prerequisites
+Having some programming knowledge (at least CSSE2002) is _incredibly important_ for this course, as is doing CSSE2010. 
+
+CSSE2310 requires (and expects) you to pickup skills very quickly, very early. Be ready to get up to scratch very quick if you haven't got a solid programming or C background.
+
+<small>(from various reviews)</small>
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ1MjA3MTk2Ml19
+-->
